@@ -1,5 +1,4 @@
-# Record Data Graphs
-
+# Notified Charts
 Demo
 
 ## Getting Started
