@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "460194401729",
+    "firebase_url": "https://flutter-push-veco.firebaseio.com",
+    "project_id": "flutter-push-veco",
+    "storage_bucket": "flutter-push-veco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460194401729:android:9f32abace87fc2a9c37340",
+        "android_client_info": {
+          "package_name": "com.example.mobile_veco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460194401729-s8qnkni60hqpgptq2jk8l858sapece8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobile_veco",
+            "certificate_hash": "6f0d2d5444b98d430c082f897bc92b59dc2e2a2b"
+          }
+        },
+        {
+          "client_id": "460194401729-khubt68j4jrlm7svoem06k070urah5q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACO0Mlzijn2sTi5i4wdl5vmvI7RlCTNpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460194401729-khubt68j4jrlm7svoem06k070urah5q8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
